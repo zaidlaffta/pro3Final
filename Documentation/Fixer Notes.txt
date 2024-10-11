@@ -1,0 +1,11 @@
+command.h and packet.h and commandmsg.h and sendinfo.h and channels.h for flooding and neighbor discovery
+
+
+simplesend(ping sending) only for neighbor discovery as well as timers
+
+interfaces used for neighbor discovery = simplesend, packet, AMPacket
+
+Media file>prooject>pdf tiny os doc, TINYOS PROGRAMMING.
+
+
+
